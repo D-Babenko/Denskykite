@@ -1,5 +1,5 @@
 ### Hi there 👋
-Learning devops/sre methodology
+Learning DevOps/SRE methodology
 
 
 
